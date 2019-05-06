@@ -1,0 +1,5 @@
+server:
+  port: 8098
+
+service-config:
+  file-path: E:\test\nei\

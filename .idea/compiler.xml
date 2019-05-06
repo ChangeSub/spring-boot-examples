@@ -6,12 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-cxf-client" />
+        <module name="spring-boot-cxf-common" />
+        <module name="spring-boot-cxf-server" />
         <module name="spring-boot-rocketmq" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="spring-boot-examples" target="1.8" />
-      <module name="spring-boot-rocketmq" target="1.8" />
+      <module name="spring-boot-cxf" target="1.5" />
+      <module name="spring-boot-cxf-client" target="1.5" />
+      <module name="spring-boot-cxf-common" target="1.5" />
+      <module name="spring-boot-cxf-server" target="1.5" />
+      <module name="spring-boot-examples" target="1.5" />
+      <module name="spring-boot-rocketmq" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

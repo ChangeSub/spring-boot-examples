@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cxf-client/spring-boot-cxf-client.iml" filepath="$PROJECT_DIR$/spring-boot-cxf-client/spring-boot-cxf-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cxf-common/spring-boot-cxf-common.iml" filepath="$PROJECT_DIR$/spring-boot-cxf-common/spring-boot-cxf-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" filepath="$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-examples.iml" filepath="$PROJECT_DIR$/spring-boot-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-rocketmq/spring-boot-rocketmq.iml" filepath="$PROJECT_DIR$/spring-boot-rocketmq/spring-boot-rocketmq.iml" />
     </modules>

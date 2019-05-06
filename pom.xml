@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-boot-rocketmq</module>
+        <module>spring-boot-cxf-common</module>
+        <module>spring-boot-cxf-client</module>
+        <module>spring-boot-cxf-server</module>
     </modules>
 
     <properties>
