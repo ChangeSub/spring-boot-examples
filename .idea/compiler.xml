@@ -10,6 +10,9 @@
         <module name="spring-boot-cxf-common" />
         <module name="spring-boot-cxf-server" />
         <module name="spring-boot-mybatis" />
+        <module name="spring-boot-rmi-client" />
+        <module name="spring-boot-rmi-common" />
+        <module name="spring-boot-rmi-server" />
         <module name="spring-boot-rocketmq" />
       </profile>
     </annotationProcessing>
@@ -20,6 +23,9 @@
       <module name="spring-boot-cxf-server" target="1.8" />
       <module name="spring-boot-examples" target="1.8" />
       <module name="spring-boot-mybatis" target="1.8" />
+      <module name="spring-boot-rmi-client" target="1.8" />
+      <module name="spring-boot-rmi-common" target="1.8" />
+      <module name="spring-boot-rmi-server" target="1.8" />
       <module name="spring-boot-rocketmq" target="1.8" />
     </bytecodeTargetLevel>
   </component>

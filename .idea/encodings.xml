@@ -6,6 +6,9 @@
     <file url="file://$PROJECT_DIR$/spring-boot-cxf-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-cxf-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rmi-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rmi-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rmi-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-rocketmq" charset="UTF-8" />
   </component>
 </project>

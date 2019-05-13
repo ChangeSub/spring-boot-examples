@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" filepath="$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-examples.iml" filepath="$PROJECT_DIR$/spring-boot-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rmi-client/spring-boot-rmi-client.iml" filepath="$PROJECT_DIR$/spring-boot-rmi-client/spring-boot-rmi-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rmi-common/spring-boot-rmi-common.iml" filepath="$PROJECT_DIR$/spring-boot-rmi-common/spring-boot-rmi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rmi-server/spring-boot-rmi-server.iml" filepath="$PROJECT_DIR$/spring-boot-rmi-server/spring-boot-rmi-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-rocketmq/spring-boot-rocketmq.iml" filepath="$PROJECT_DIR$/spring-boot-rocketmq/spring-boot-rocketmq.iml" />
     </modules>
   </component>

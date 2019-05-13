@@ -14,6 +14,9 @@
         <module>spring-boot-cxf-client</module>
         <module>spring-boot-cxf-server</module>
         <module>spring-boot-mybatis</module>
+        <module>spring-boot-rmi-common</module>
+        <module>spring-boot-rmi-server</module>
+        <module>spring-boot-rmi-client</module>
     </modules>
 
     <parent>
