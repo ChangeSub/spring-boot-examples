@@ -9,6 +9,9 @@
         <module name="spring-boot-cxf-client" />
         <module name="spring-boot-cxf-common" />
         <module name="spring-boot-cxf-server" />
+        <module name="spring-boot-dubbo-common" />
+        <module name="spring-boot-dubbo-consumer" />
+        <module name="spring-boot-dubbo-provider" />
         <module name="spring-boot-mybatis" />
         <module name="spring-boot-rmi-client" />
         <module name="spring-boot-rmi-common" />
@@ -21,6 +24,9 @@
       <module name="spring-boot-cxf-client" target="1.8" />
       <module name="spring-boot-cxf-common" target="1.8" />
       <module name="spring-boot-cxf-server" target="1.8" />
+      <module name="spring-boot-dubbo-common" target="1.8" />
+      <module name="spring-boot-dubbo-consumer" target="1.8" />
+      <module name="spring-boot-dubbo-provider" target="1.8" />
       <module name="spring-boot-examples" target="1.8" />
       <module name="spring-boot-mybatis" target="1.8" />
       <module name="spring-boot-rmi-client" target="1.8" />

@@ -17,6 +17,9 @@
         <module>spring-boot-rmi-common</module>
         <module>spring-boot-rmi-server</module>
         <module>spring-boot-rmi-client</module>
+        <module>spring-boot-dubbo-common</module>
+        <module>spring-boot-dubbo-provider</module>
+        <module>spring-boot-dubbo-consumer</module>
     </modules>
 
     <parent>

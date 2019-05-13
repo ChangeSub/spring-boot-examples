@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-cxf-client/spring-boot-cxf-client.iml" filepath="$PROJECT_DIR$/spring-boot-cxf-client/spring-boot-cxf-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-cxf-common/spring-boot-cxf-common.iml" filepath="$PROJECT_DIR$/spring-boot-cxf-common/spring-boot-cxf-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" filepath="$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo-common/spring-boot-dubbo-common.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo-common/spring-boot-dubbo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo-consumer/spring-boot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo-consumer/spring-boot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo-provider/spring-boot-dubbo-provider.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo-provider/spring-boot-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-examples.iml" filepath="$PROJECT_DIR$/spring-boot-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-rmi-client/spring-boot-rmi-client.iml" filepath="$PROJECT_DIR$/spring-boot-rmi-client/spring-boot-rmi-client.iml" />
