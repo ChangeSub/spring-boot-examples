@@ -13,6 +13,7 @@
         <module name="spring-boot-dubbo-consumer" />
         <module name="spring-boot-dubbo-provider" />
         <module name="spring-boot-mybatis" />
+        <module name="spring-boot-redis" />
         <module name="spring-boot-rmi-client" />
         <module name="spring-boot-rmi-common" />
         <module name="spring-boot-rmi-server" />
@@ -29,6 +30,7 @@
       <module name="spring-boot-dubbo-provider" target="1.8" />
       <module name="spring-boot-examples" target="1.8" />
       <module name="spring-boot-mybatis" target="1.8" />
+      <module name="spring-boot-redis" target="1.8" />
       <module name="spring-boot-rmi-client" target="1.8" />
       <module name="spring-boot-rmi-common" target="1.8" />
       <module name="spring-boot-rmi-server" target="1.8" />
