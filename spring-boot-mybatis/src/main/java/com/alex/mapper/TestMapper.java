@@ -23,4 +23,7 @@ public interface TestMapper {
      */
     List<JSONObject> queryPatrolByTaskGuid(JSONObject requestJson);
 
+    List<JSONObject> listloginLog(JSONObject requestJson);
+
+    int countListloginLog(JSONObject requestJson);
 }

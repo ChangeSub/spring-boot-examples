@@ -72,4 +72,16 @@
     </select>
 
 
+    <!--分页示例-->
+
+    <select id="listloginLog" resultType="com.alibaba.fastjson.JSONObject">
+        SELECT  * from h_login_logs
+        order BY  guid desc
+        limit #{pageRow} offset #{offSet}
+    </select>
+
+    <select id="countListloginLog" resultType="Integer">
+        SELECT COUNT(*) from h_login_logs
+    </select>
+
 </mapper>
