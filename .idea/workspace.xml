@@ -2,85 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a76f8a0-52d2-4611-9cdd-3c75c479b954" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_tools_3_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_external_relaxng_datatype_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_external_rngom_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_dtd_parser_dtd_parser_1_4_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_10_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_10_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_core_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_core_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_wsdl_3_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_wsdl_3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_neethi_neethi_3_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_neethi_neethi_3_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_codemodel_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_xjc_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_xsom_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/spring-boot-cxf-client.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/SpringBootCxfClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/config/WebClientConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/schedule/MessagerSchedule.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/util/FileUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/util/StringTools.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-common/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-common/spring-boot-cxf-common.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/Crew.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/CxfFileWrapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/service/WsFileService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/service/WsUserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/SpringBootCxfServer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/config/WebServiceConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/FileService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/impl/FileWSImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/impl/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_34_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/SpringBootMybatis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/mapper/TestMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/model/One2Many.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/schedule/MessagerSchedule.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/logback.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mapper/TestMapper.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_36_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-cxf-client/spring-boot-cxf-client.iml" afterPath="$PROJECT_DIR$/spring-boot-cxf-client/spring-boot-cxf-client.iml" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-cxf-common/spring-boot-cxf-common.iml" afterPath="$PROJECT_DIR$/spring-boot-cxf-common/spring-boot-cxf-common.iml" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" afterPath="$PROJECT_DIR$/spring-boot-cxf-server/spring-boot-cxf-server.iml" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-examples.iml" afterPath="$PROJECT_DIR$/spring-boot-examples.iml" />
       <change beforePath="$PROJECT_DIR$/spring-boot-rocketmq/spring-boot-rocketmq.iml" afterPath="$PROJECT_DIR$/spring-boot-rocketmq/spring-boot-rocketmq.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -90,6 +47,7 @@
     <ignored path="$PROJECT_DIR$/spring-boot-cxf-server/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-cxf-client/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-cxf-common/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-mybatis/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,104 +57,111 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WsFileService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/service/WsFileService.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="540">
+              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CxfFileWrapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/CxfFileWrapper.java">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="100">
+              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WsUserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/service/WsUserService.java">
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="870">
+              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/UserService.java">
+      <file leaf-file-name="TestMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mapper/TestMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+              <folding>
+                <marker date="1557730652184" expanded="true" signature="279:299" ph="SELECT * fro... t_duty" />
+                <marker date="1557730652184" expanded="true" signature="2074:3523" ph="SELECT d.gui... b_patrolrecord" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/mapper/TestMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Crew.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/Crew.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessagerSchedule.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/schedule/MessagerSchedule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebClientConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/config/WebClientConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringBootCxfClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/SpringBootCxfClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="17" />
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootMybatis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/SpringBootMybatis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessagerSchedule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/schedule/MessagerSchedule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="34" column="50" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="One2Many.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/model/One2Many.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootCxfServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/SpringBootCxfServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -214,6 +179,7 @@
     <findStrings>
       <find>Collectors</find>
       <find>working....</find>
+      <find>queryPatrolByTaskGuid</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -240,7 +206,6 @@
         <option value="$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/common/service/WsFileService.java" />
         <option value="$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/SpringBootCxf.java" />
         <option value="$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/server/config/WebServiceConfig.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/CxfFileWrapper.java" />
         <option value="$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/SpringBootCxfClient.java" />
         <option value="$PROJECT_DIR$/spring-boot-cxf-server/src/main/resources/application.yml" />
@@ -262,6 +227,15 @@
         <option value="$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/service/WsFileService.java" />
         <option value="$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/schedule/MessagerSchedule.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/SpringBootMybatis.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/schedule/MessagerSchedule.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/model/One2Many.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/mapper/TestMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mapper/TestMapper.xml" />
       </list>
     </option>
   </component>
@@ -302,15 +276,24 @@
           <item name="spring-boot-examples" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -328,6 +311,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,25 +322,25 @@
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -364,7 +348,42 @@
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -373,17 +392,27 @@
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="alex" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alex" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -393,17 +422,7 @@
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -411,187 +430,29 @@
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cxf-server" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
               <item name="spring-boot-rocketmq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-rocketmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-rocketmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-rocketmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-rocketmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alex" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -606,129 +467,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alex.model" />
+      <recent name="com.alex.schedule" />
       <recent name="com.alex.service" />
       <recent name="com.alex.service.impl" />
       <recent name="com.alex.entity" />
-      <recent name="com.alex.config" />
-      <recent name="com.alex" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study\tongxue\spring-boot-examples\spring-boot-mybatis\src\main\resources\mapper" />
+      <recent name="E:\study\tongxue\spring-boot-examples\spring-boot-mybatis\src\main\resources" />
       <recent name="E:\study\tongxue\spring-boot-examples\spring-boot-cxf-client\src\main\java\com\alex\util" />
       <recent name="E:\study\tongxue\spring-boot-examples\spring-boot-cxf-common\src\main\java\com\alex\entity" />
       <recent name="E:\study\tongxue\spring-boot-examples\spring-boot-cxf-server\src\main\resources" />
-      <recent name="E:\study\tongxue\spring-boot-examples\spring-boot-cxf-client\src\main\resources" />
-      <recent name="E:\study\tongxue\spring-boot-examples\spring-boot-rocketmq\src\main\java\com\alex\config" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/spring-boot-rocketmq/README.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -742,7 +493,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootCxfClient">
+  <component name="RunManager" selected="Spring Boot.SpringBootMybatis">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -803,6 +554,17 @@
       <module name="spring-boot-cxf-server" />
       <envs />
     </configuration>
+    <configuration name="SpringBootMybatis" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.alex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alex.SpringBootMybatis" />
+      <module name="spring-boot-mybatis" />
+      <envs />
+    </configuration>
     <configuration name="SpringBootRocketMq" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -847,14 +609,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringBootRocketMq" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.SpringBootCxfServer" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.SpringBootCxfClient" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringBootCxfServer" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.SpringBootCxfClient" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.SpringBootRocketMq" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.SpringBootMybatis" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringBootRocketMq" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringBootMybatis" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.SpringBootRocketMq" />
       </list>
     </recent_temporary>
   </component>
@@ -873,12 +637,30 @@
       <updated>1556594597382</updated>
       <workItem from="1556594601228" duration="7321000" />
       <workItem from="1556609576365" duration="1041000" />
-      <workItem from="1557023344130" duration="9005000" />
+      <workItem from="1557023344130" duration="9693000" />
+      <workItem from="1557369624422" duration="5036000" />
+      <workItem from="1557468899402" duration="9643000" />
+      <workItem from="1557730079309" duration="624000" />
     </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1557102764224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557102764224</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交">
+      <created>1557471765171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557471765172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17367000" />
+    <option name="totallyTimeSpent" value="33358000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -890,12 +672,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.23614073" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20948827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.23614073" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17750533" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -905,19 +687,18 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.45309168" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.45309168" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.7638593" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34791666" sideWeight="0.7638593" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.7009595" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -925,6 +706,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -933,6 +715,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
@@ -940,72 +726,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-rocketmq/src/main/java/com/alex/SpringBootRocketMq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#387#388#0" expanded="false" />
-            <element signature="e#456#457#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-rocketmq/src/main/java/com/alex/config/RocketMQProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-rocketmq/src/main/java/com/alex/config/MessageEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-rocketmq/src/main/java/com/alex/cusumer/ReveiveMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-rocketmq/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-rocketmq/src/main/java/com/alex/config/RocketMQConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2960">
-          <caret line="148" column="44" lean-forward="true" selection-start-line="148" selection-start-column="44" selection-end-line="148" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/haiqi/work/rocketmq.properties" />
     <entry file="file://$PROJECT_DIR$/spring-boot-rocketmq/src/main/resources/config/rocketmq.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1017,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1051,9 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,7 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,75 +810,20 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="240">
             <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/common/service/WsFileService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/common/entity/CxfFileWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/SpringBootCxf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/server/config/WebServiceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="21" column="57" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/common/service/WsFileService.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/common/entity/CxfFileWrapper.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/SpringBootCxf.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf/src/main/java/com/alex/server/config/WebServiceConfig.java" />
     <entry file="file://$PROJECT_DIR$/spring-boot-rocketmq/src/main/java/com/alex/cusumer/ReveiveMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,64 +835,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/Ems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/Ems.java" />
     <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="29" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/EmsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/impl/EmsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/SpringBootCxfServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#440#441#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/EmsService.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/service/impl/EmsServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/config/WebServiceConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
@@ -1251,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1259,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1267,7 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="20" column="54" lean-forward="false" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1275,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1283,23 +891,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="61" column="48" lean-forward="false" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/SpringBootCxfClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/config/WebClientConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="680">
           <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
           <folding />
         </state>
@@ -1313,19 +910,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/CxfFileWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/Crew.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1333,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1341,7 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1349,22 +935,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/SpringBootCxfClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/service/WsFileService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="320">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/src/main/java/com/alex/entity/CxfFileWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-cxf-client/src/main/java/com/alex/schedule/MessagerSchedule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="651">
+          <caret line="123" column="81" lean-forward="false" selection-start-line="123" selection-start-column="81" selection-end-line="123" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cxf-server/src/main/java/com/alex/SpringBootCxfServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/schedule/MessagerSchedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="34" column="50" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/SpringBootMybatis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mapper/TestMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <marker date="1557730652184" expanded="true" signature="279:299" ph="SELECT * fro... t_duty" />
+            <marker date="1557730652184" expanded="true" signature="2074:3523" ph="SELECT d.gui... b_patrolrecord" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/mapper/TestMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/alex/model/One2Many.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding />
         </state>
       </provider>

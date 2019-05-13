@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.alex.mapper.TestMapper">
+    <select id="getList"  resultType="com.alibaba.fastjson.JSONObject">
+          SELECT * from t_duty;
+    </select>
+
+
+    <resultMap id="patrol" type="com.haiqi.jmles.util.model.One2Many">
+        <id column="taskGuid" property="taskGuid"/>
+        <result column="transportCode" property="transportCode"/>
+        <result column="transportName" property="transportName"/>
+        <result column="startTime" property="startTime"/>
+        <result column="endTime" property="endTime"/>
+        <result column="taskName" property="taskName"/>
+        <!--可以并列一对多，所以用JSONObject比较灵活-->
+        <collection property="users" ofType="com.alibaba.fastjson.JSONObject">
+            <id column="officerName" property="officerName"/>
+        </collection>
+        <!--可以并列一对多-->
+        <collection property="group" ofType="com.haiqi.jmles.util.model.One2Many">
+            <id column="pgGuid" property="pgGuid"/>
+            <result column="targetName" property="targetName"/>
+            <result column="gridName" property="gridName"/>
+            <result column="gridCode" property="gridCode"/>
+            <result column="targetType" property="targetType"/>
+            <result column="groupCheckTime" property="groupCheckTime"/>
+            <!--可以再次嵌入一对多-->
+            <collection property="detail" ofType="com.alibaba.fastjson.JSONObject">
+                <id column="detailGuid" property="detailGuid"/>
+                <result column="checkTime" property="checkTime"/>
+                <result column="resultCodeDetail" property="resultCodeDetail"/>
+                <result column="itemName" property="itemName"/>
+                <result column="resultName" property="resultName"/>
+                <result column="isPunish" property="isPunish"/>
+            </collection>
+        </collection>
+    </resultMap>
+
+    <select id="queryPatrolByTaskGuid" resultMap="patrol">
+        SELECT
+        d.guid	taskGuid,
+        d.transport_code	  transportCode,
+        to_char(d.start_time	,'yyyy-MM-dd HH24:MI:SS')	startTime,
+        to_char(d.end_time	,'yyyy-MM-dd HH24:MI:SS') 	endTime,
+        d.task_name           taskName,
+        lt.transport_name	  transportName,
+        pt.officer_name	      officerName,
+        up.guid               pgGuid,
+        up.target_name	      targetName,
+        up.target_type	      targetType,
+        to_char(  up.check_time		,'yyyy-MM-dd HH24:MI:SS')   groupCheckTime,
+        ad.grid_name           gridName,
+        ad.grid_code           gridCode,
+        ad.is_important        isImportant,
+        il.guid		          detailGuid,
+        to_char(il.check_time	,'yyyy-MM-dd HH24:MI:SS') 	  checkTime,
+        il.result_code		  resultCodeDetail,
+        il.is_punish		  isPunish,
+        cm.item_desc		  itemName,
+        ct.result_name		  resultName
+        from b_patrolrecord d
+        LEFT JOIN b_participant pt on d.guid=pt.record_guid
+        LEFT JOIN t_lawtransport lt on d.transport_code=lt.transport_code
+        LEFT JOIN b_patrolgroup up on d.guid=up.task_guid
+        LEFT JOIN t_areagrid ad on up.grid_guid=ad.guid
+        LEFT JOIN b_patroldetail il on up.guid=il.pg_guid
+        LEFT JOIN t_d_checkresult ct on il.result_code=ct.result_code
+        LEFT JOIN t_checkitem cm on il.item_code =cm.item_code
+        where d.guid = #{taskGuid}
+        order by il.check_time desc
+    </select>
+
+
+</mapper>
