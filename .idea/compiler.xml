@@ -18,6 +18,7 @@
         <module name="spring-boot-rmi-common" />
         <module name="spring-boot-rmi-server" />
         <module name="spring-boot-rocketmq" />
+        <module name="spring-boot-web-splider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -35,6 +36,7 @@
       <module name="spring-boot-rmi-common" target="1.8" />
       <module name="spring-boot-rmi-server" target="1.8" />
       <module name="spring-boot-rocketmq" target="1.8" />
+      <module name="spring-boot-web-splider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

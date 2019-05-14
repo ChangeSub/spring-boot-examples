@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-rmi-common/spring-boot-rmi-common.iml" filepath="$PROJECT_DIR$/spring-boot-rmi-common/spring-boot-rmi-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-rmi-server/spring-boot-rmi-server.iml" filepath="$PROJECT_DIR$/spring-boot-rmi-server/spring-boot-rmi-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-rocketmq/spring-boot-rocketmq.iml" filepath="$PROJECT_DIR$/spring-boot-rocketmq/spring-boot-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-web-splider/spring-boot-web-splider.iml" filepath="$PROJECT_DIR$/spring-boot-web-splider/spring-boot-web-splider.iml" />
     </modules>
   </component>
 </project>

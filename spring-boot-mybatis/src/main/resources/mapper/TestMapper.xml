@@ -84,4 +84,15 @@
         SELECT COUNT(*) from h_login_logs
     </select>
 
+
+    <!--pgsql示例添加时，如果某个字段重复则进行修改-->
+    <insert id="insert">
+        INSERT INTO vits.t_vts
+        (guid, send_time, track_id, name, callsign, length, width, jd, wd, hx, speed, mmsi, deep) VALUES
+        (#{guid},#{T},#{TrackID},#{SN},#{CS},#{LH},#{WH},#{L},#{B},#{C},#{S},#{I},#{D})
+        on conflict(track_id) do update
+        set
+        send_time=#{T}, track_id=#{TrackID}, name=#{SN}, callsign=#{CS}, length=#{LH}, width=#{WH}, jd=#{L}, wd=#{B}, hx=#{C}, speed=#{S}, mmsi=#{I}, deep=#{D}
+    </insert>
+
 </mapper>
